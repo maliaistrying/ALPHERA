@@ -1,2 +1,3 @@
 # ALPHERA
-a project i made for a technical assesment 
+This project is built with Next.js and is currently on the master branch.
+
